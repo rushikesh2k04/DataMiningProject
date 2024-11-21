@@ -1,3 +1,4 @@
 # DataMiningProject
+Prediction of Adult Income based on Census Data
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/rushikesh2k04/DataMiningProject)
+1. Collect a dataset containing census information like age, education level, occupation, and marital status, along with labels indicating income exceeding $50,000. 2. Preprocess the data by handling missing values, encoding categorical variables, and normalizing numerical features. 3. Explore the dataset to gain insights and perform feature selection to identify influential variables. 4. Train a classification model using algorithms like Logistic Regression, Decision Trees, Random Forest, or Gradient Boosting to predict income levels. 5. Fine-tune the model’s hyperparameters using techniques like grid search or random search. 6. Evaluate the model’s performance using metrics such as accuracy, precision, recall, and F1-score. 7. Analyze the important features contributing to the prediction and generate predictions on new census data.
